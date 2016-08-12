@@ -27,3 +27,15 @@ The MIT License (MIT)
 ## REST
 
 [REST in Practice: Hypermedia and Systems Architecture Kindle Edition by Ian Robinson - 2010](%5BREST%20in%20Practice%20Hypermedia%20and%20Systems%20Architecture%20Kindle%20Edition%20by%20Ian%20Robinson%20-%202010%5D.pdf)  [**Buy**](https://www.amazon.com/REST-Practice-Hypermedia-Systems-Architecture-ebook/dp/B0046RERXY/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
+
+## Other
+
+#### Cryptography
+[Java Cryptography by Jeff Lawson - 2013](%5BJava%20Cryptography%20by%20Jeff%20Lawson%20-%202013%5D.pdf)  
+[Software Interfaces to Cryptographic Algorithms by Pieter Philippaerts - 2012](%5BSoftware%20Interfaces%20to%20Cryptographic%20Algorithms%20by%20Pieter%20Philippaerts%20-%202012%5D.pdf)  
+[Applying Java’s Cryptography Erik Costlow - 2014](%5BApplying%20Java's%20Cryptography%20Erik%20Costlow%20-%202014%5D.pdf)  
+[A Java API for X.509 Proxy Certificates by John Gilbert - 2008](%5BA%20Java%20API%20for%20X.509%20Proxy%20Certificates%20by%20John%20Gilbert%20-%202008%5D.pdf)  
+
+#### Security
+[Secure Web Development Teaching Modules. Introduction to Java Security by Li-Chiou Chen - 2011](%5BSecure%20Web%20Development%20Teaching%20Modules.%20Introduction%20to%20Java%20Security%20by%20Li-Chiou%20Chen%20-%202011%5D.pdf)  
+[Authentication and Session Management by Jim Manico - 2015](%5BAuthentication%20and%20Session%20Management%20by%20Jim%20Manico%20-%202015%5D.pdf)  
